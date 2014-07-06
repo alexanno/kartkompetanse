@@ -3,12 +3,12 @@
 ** Bidrag og begrunnelse
 
 * GeoServer SLD-dokumentasjon
-** Styleguide
-** Cookbook
-* Andrea's sine slides
+** ~~Styleguide~~
+** ~~Cookbook~~
+* ~~Andrea's sine slides~~
 * SLD-funksjoner
 * SLD: legge til på variabler
-* SLD: transformasjoner: pointstacker
+* ~~SLD: transformasjoner: pointstacker~~
 * SLD: font/teksttype
 * Font'er: typevalg og ikonfont'er
 * CartoCSS: Espen?
@@ -17,7 +17,6 @@
 
 Eksempler på bruk
 * QGIS-eksempel på papirkartprodukt
-* Paul Ramseys koropleth-tricks
 
 
 Ressurspersoner:
