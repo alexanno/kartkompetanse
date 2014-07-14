@@ -1,0 +1,1 @@
+Proof-of-concept for å konvertere OCAD-kart til Tilemill: https://github.com/geografa/ISOM
