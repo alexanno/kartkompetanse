@@ -7,3 +7,4 @@ GeoServer bruker SLD til styling (kartografi). Dokumentasjonen og presentasjoner
 * Geoserver filter functions: http://docs.geoserver.org/latest/en/user/filter/function.html - en kraftig måte å få mer ut av styling. Eks: hente ut start/sluttpunkt, mainpulere tekst +++
 * Fonter i Geoserver: Kan brukes både for tekst eller man kan bruke ikon-fonter (type Glyphicons). Se http://docs.geoserver.org/stable/en/user/styling/sld-extensions/pointsymbols.html#ttf-marks for hvordan bruke fonter for symboler i Geoserver
     * For å legge til custom fonter i Geoserver legger man *.ttf-fila i GEOSERVER_DATA_DIR/styles/ og velger "clear resource cache" under "server status" i GUIet
+* GetLegendGRaphic-kallet i bruker SLD-taggen "Title" til å legge en tekst på tegnforklaringen. Når man har kun en rule vises ikke denne teksten by default¸man må legge til legend_options=forceLabels:on i URL'en
